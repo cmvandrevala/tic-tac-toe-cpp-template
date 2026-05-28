@@ -1,3 +1,5 @@
+#pragma once
+
 #include <string>
 
-// Your functions go here
+std::string ttt();
